@@ -1,0 +1,14 @@
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\bin\Debug\kadircelikproje.exe.config
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\bin\Debug\kadircelikproje.exe
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\bin\Debug\kadircelikproje.pdb
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.csprojAssemblyReference.cache
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Form1.resources
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Form2.resources
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Properties.Resources.resources
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.csproj.GenerateResource.cache
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.exe
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.pdb
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Form3.resources
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Form4.resources
+C:\Users\Mustafa Koca\Desktop\kadircelikproje\kadircelikproje\obj\Debug\kadircelikproje.Form5.resources
